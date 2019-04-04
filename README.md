@@ -1,2 +1,2 @@
 # React-Native-Calculator
-Aplicativo de calculadora desenvolvido em react native 
+Calculator app developed in react nativew
